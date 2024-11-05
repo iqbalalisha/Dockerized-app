@@ -53,5 +53,3 @@
 - [Docker](https://www.docker.com/)
 ```
 
-### Customization
-Feel free to adjust the repository URL, licensing information, or any other details specific to your project. This README provides a clear overview of your project and guides users on how to get started. Let me know if you need any further modifications or additional sections!
